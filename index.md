@@ -23,9 +23,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Multimodal application
 - Large Language Model
 - Sentiment analysis
-<!-- - Industrial Informatics
-- Applied Machine Learning
-- [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗 -->
 
 My current research interests are in **multimodal conversational recommendation**. I want people to be able to browse the products they want in a multimodal dialogue while shopping on an e-commerce platform.
 
