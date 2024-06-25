@@ -1,4 +1,4 @@
-title: YangYang Cai
+title: YangYang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
@@ -7,18 +7,18 @@ url: https://caihanlin.com
 # Owner/author information
 owner:
   name: YangYang
-  avatar: hanlin.jpg
+  avatar:  
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: 1094823225@qq.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv:  
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   # twitter: lancecai2002
-  # github: GuangLun2000
-  # linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  github: GuangLun2000
+  linkedin:  
+  scholar:  
+  bilibili:  
+  researchgate:  
+  zhihu:  
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
