@@ -4,16 +4,16 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/)
+<!-- > Lastest Update: 14th May 2024&nbsp;  [中文版本 (Chinese Version)](https://caihanlin.com/file/publications-zh/) -->
 
 ## Conference Paper
 
-- Poster: Hybrid Detection Mechanism for Spoofing Attacks in Bluetooth Low Energy Networks<br>**Hanlin Cai**, Yuchen Fang, Jiacheng Huang, Meng Yuan, Zhezhuang Xu<br>The 22nd ACM International Conference on Mobile Systems, Applications, and Services ([MobiSys 2024](https://www.sigmobile.org/mobisys/2024/))<br>Tokyo, Japan. June, 2024.
+- Poster:CLGSI: AMultimodal Sentiment Analysis Framework based on Contrastive Learning Guided by Sentiment Intensity<br>**Yang Yang**, Xunde Dong*, Yupeng Qiang<br>In Findings of the Association for Computational Linguistics: NAACL 2024, pages 2099–2110, Mexico City, Mexico. Association for Computational Linguistics. (**NAACL24 Findings**) 
 
   <br>
 
 
----
+<!-- ---
 
 ## Thesis (FYP)
 
@@ -43,4 +43,4 @@ title: Publications
 
 - An IoT Garbage Monitoring System for Effective Garbage Management<br>*Freshman course design, early project.*<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>The 4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022.<br>
 
-  <br>
+  <br> -->
