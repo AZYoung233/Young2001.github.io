@@ -13,11 +13,8 @@ Here is **YangYang (Young, 杨洋)**.
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *1094823225[at]qq[dot]com*
 
 ## Academic Background
-
-- **Sep 2024 - Future：**Cambridge University (Incoming EE MPhil, supervised by [Prof. Ozgur B. Akan](https://ioe.eng.cam.ac.uk/directory/akan))
-- **Sep 2020 - June 2024:** Maynooth University (BSc, EECS)
-- **Sep 2020 - June 2024:** Fuzhou University (BEng, EECS)
-- **June 2022 - Nov 2022:** Cambridge University (Internship)
+- **Sep 2022 - June 2025:** South China University of Technology (Master of Electronic and Information Engineering)
+- **Sep 2018 - June 2022:** Dongguan University of Technology (Bachelor of Automation)
 
 ---
 
@@ -30,7 +27,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Applied Machine Learning
 - [My latest research proposal (Dec 2023)](https://caihanlin.com/file/proposal-2023.pdf)🔗 -->
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research interests are in **multimodal conversational recommendation**. I want people to be able to browse the products they want in a multimodal dialogue while shopping on an e-commerce platform.
 
 ---
 
